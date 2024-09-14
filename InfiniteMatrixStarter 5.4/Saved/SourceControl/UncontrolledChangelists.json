@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/Healthbar_empty.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/Healthbar_full.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/Object.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Textures/tutorial_sample55g.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/ObjectGen.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/sA_PickupSet_1/Materials/Textures/Noise01.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/sA_PickupSet_1/Materials/Textures/Noise02.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/sA_PickupSet_1/Materials/Textures/Noise04.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/sA_PickupSet_1/Materials/Textures/Noise06.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/sA_PickupSet_1/Materials/Textures/Noise07.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/sA_PickupSet_1/Materials/Textures/Noise08.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/sA_PickupSet_1/Materials/Textures/Noise09.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/sA_PickupSet_1/Materials/Textures/Noise11.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/sA_PickupSet_1/Materials/Textures/Noise12.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/sA_PickupSet_1/Materials/Textures/T_Beam_01.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_1.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_2.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/sA_PickupSet_1/Materials/Textures/T_NoiseFurry.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/Objects.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/HealthPack.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/HealthWidget.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/ScoreWidget.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"D:/uiuc files/fa2024/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Effect.uasset"
+			]
+		}
+	]
+}
