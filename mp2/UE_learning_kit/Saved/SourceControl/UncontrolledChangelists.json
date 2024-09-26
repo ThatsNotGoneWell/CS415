@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/HealthBar.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/Collectibles.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/CollectDisplay.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/Pursuer_AIController.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/BP_Pursuer.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/EAIState.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/GameOver.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/Collectibles1.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/Noise01.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/Noise02.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/Noise04.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/Noise06.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/Noise07.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/Noise08.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/Noise09.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/Noise11.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/Noise12.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/T_Beam_01.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_1.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_2.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/T_NoiseFurry.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/HealthBoost.uasset"
+			]
+		}
+	]
+}
