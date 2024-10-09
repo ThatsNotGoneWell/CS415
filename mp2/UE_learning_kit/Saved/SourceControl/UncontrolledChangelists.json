@@ -14,7 +14,6 @@
 				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/EAIState.uasset",
 				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/GameOver.uasset",
-				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/Collectibles1.uasset",
 				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/Noise01.uasset",
 				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/Noise02.uasset",
 				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/Noise04.uasset",
@@ -28,7 +27,16 @@
 				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_1.uasset",
 				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_2.uasset",
 				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/sA_PickupSet_1/Materials/Textures/T_NoiseFurry.uasset",
-				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/HealthBoost.uasset"
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/HealthBoost.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/Assets/Healthbar_empty.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/Assets/Healthbar_full.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/Mortar.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/Projectile.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/BP_FlyPursuer.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/Mortar1.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/SlowProjectiel.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/GameComplete.uasset",
+				"D:/uiuc files/fa2024/CS415/mp2/UE_learning_kit/Content/LearningKit_Games/MyMess/Collectibles1.uasset"
 			]
 		}
 	]
